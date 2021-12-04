@@ -1,5 +1,4 @@
 # YAZM109
 YAZM109 Algoritma ve Programlama I Uygulamalar
 
-Hafta 1 Uygulama Dosyaları Eklendi.
-Video https://youtu.be/fRM9ktf3zUw adresi üzerinden erişilebilir olacaktır.
+Videolara https://www.youtube.com/watch?v=fRM9ktf3zUw&list=PLd1IMqeIGvimwGFoZfT8ZuwKxhJixN0CW oynatma listesi üzerinden erişebilirsiniz.
